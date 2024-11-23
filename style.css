@@ -1,0 +1,29 @@
+pimg1,.pimg2,.pimg3 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("image1.jpg');
+ min-height:100%;
+            background-image:url('image2.jpg');
+    }
+
+    .pimg1 {
+    background-image:url('work.jpg');
+    min-height: 100%;
+    }
+
+    .pimg2 {background-image: url('lol.jpg');
+        min-height: 400%;}
+
+    .pimg3 {}
+
+    section {
+        min-height:400px;
+        background-image:url('hahah.jpg');
+        min-height:400px;
+        text-align:center;
+        padding:50px 30px;
+    }
